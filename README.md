@@ -15,7 +15,7 @@ Dive into a treasure trove of content on Prantiahmed, including:
 - **Commentary:** Thought-provoking reflections on current events and their implications for the economy and society.
 
 ## Usage
-To experience the website, simply venture into [prantiahmed.github.io](https://prantiahmed.github.io/) using your preferred web browser.
+To experience the website, simply venture into [prantiahmed.github.io](https://pranti.io/) using your preferred web browser.
 
 To run the website locally:
 1. Clone this repository: `git clone https://github.com/your-username/prantiahmed.git`
