@@ -15,11 +15,11 @@ Dive into a treasure trove of content on Prantiahmed, including:
 - **Commentary:** Thought-provoking reflections on current events and their implications for the economy and society.
 
 ## Usage
-To experience the website, simply venture into [prantiahmedd.io](https://prantiahmedd.io/) using your preferred web browser.
+To experience the website, simply venture into [prantiahmedd.io](https://prantiahmed.github.io/) using your preferred web browser.
 
 To run the website locally:
-1. Clone this repository: `git clone https://github.com/your-username/prantiahmedd.git`
-2. Navigate to the project directory: `cd prantiahmedd`
+1. Clone this repository: `git clone https://github.com/your-username/prantiahmed.git`
+2. Navigate to the project directory: `cd prantiahmed`
 3. Open `index.html` in your web browser.
 
 ## Contributing
