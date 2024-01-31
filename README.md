@@ -6,7 +6,7 @@
 Prantiahmed, crafted by yours truly, Pranti Ahmed, serves as my canvas to delve into the intricate intersections of economics and political science. With a rich background in both fields, I present thoughtful perspectives on various subjects, including market dynamics, policy analysis, and global affairs.
 
 ## Background
-As an enthusiast in economics and political science, I've dedicated years to unraveling the complexities of economic systems and political structures. My academic journey, coupled with hands-on experience in research and analysis, equips me to dissect and discuss a wide range of issues affecting societies and economies around the world.
+As an enthusiast in economics and political science, I've dedicated years to unraveling the complexities of political structures and economic systems. My academic journey, coupled with hands-on experience in research and analysis, equips me to dissect and discuss a wide range of issues affecting societies and economies around the world.
 
 ## Content
 Dive into a treasure trove of content on Prantiahmed, including:
